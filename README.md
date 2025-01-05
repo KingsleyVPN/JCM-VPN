@@ -3,8 +3,6 @@
 
 <h3 
 align="left">Connect with us:</h3>
-
-<p align="center">
   
 <a href="https://fb.com/kaldag.cp.repair"
 target="blank"><img align="center"
