@@ -8,7 +8,7 @@ align="left">Connect with us:</h3>
   
 <a href="https://fb.com/kaldag.cp.repair"
 target="blank"><img align="center"
-src="https://pin.it/4yckPu7GL"
+src="https://i.pinimg.com/736x/ba/8a/e1/ba8ae19c192e3e85f4031c895051f0df.jpg"
 alt="kaldag" height="70" width="220" 
 /></a>
 
