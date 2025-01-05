@@ -21,3 +21,7 @@ alt="kaldag" height="70" width="220"
 <a href="https://play.google.com/store/apps/details?id=com.jcm.vpn
 " target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="220" /></a>
 </p>
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default"></div>
