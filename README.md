@@ -15,5 +15,5 @@ alt="kaldag" height="70" width="220"
 <a href="https://www.youtube.com/@kaldubtv" target="blank"><img align="center" src="https://www.alfredocreates.com/wp-content/uploads/2017/02/Free-Outline-YouTube-Subscribe-Button-by-AlfredoCreates.png" alt="kaldag" height="70" width="190" /></a>
 
 <a href="https://play.google.com/store/apps/details?id=com.jcm.vpn
-" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="220" /></a>
+" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="70" width="220" /></a>
 </p>
