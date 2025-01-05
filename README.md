@@ -9,7 +9,7 @@ align="left">Connect with us:</h3>
 <a href="https://fb.com/kaldag.cp.repair"
 target="blank"><img align="center"
 src="https://i.pinimg.com/736x/ba/8a/e1/ba8ae19c192e3e85f4031c895051f0df.jpg"
-alt="kaldag" height="70" width="220" 
+alt="kaldag" height="300" width="300" 
 /></a>
 
 <a href="https://www.youtube.com/@kaldubtv" target="blank"><img align="center" src="https://www.alfredocreates.com/wp-content/uploads/2017/02/Free-Outline-YouTube-Subscribe-Button-by-AlfredoCreates.png" alt="kaldag" height="70" width="190" /></a>
