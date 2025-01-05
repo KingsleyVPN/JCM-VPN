@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm JCM VPN</h1>
 <h3 align="center">A frontend developer from Demons World</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Romel+P.+Brosas.;A+self+taught+programmer.;A+freelance+software+developer." alt="Typing SVG" /></a>
+</p>
+
 <h3 
 align="left">Connect with us:</h3>
   <p align="center">
