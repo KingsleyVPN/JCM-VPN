@@ -8,7 +8,7 @@ align="left">Connect with us:</h3>
   
 <a href="https://fb.com/kaldag.cp.repair"
 target="blank"><img align="center"
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Ffb-icon-png"
+src="https://img.freepik.com/premium-photo/facebook-social-media-web-icon-logo-3d-clipping-path-cut-out-transparent-png_1164395-599.jpg?w=740"
 alt="kaldag" height="70" width="220" 
 /></a>
 
