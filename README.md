@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JCM VPN</h1>
-<h3 align="center">A passionate frontend developer from Demons World</h3>
+<h3 align="center">A frontend developer from Demons World</h3>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
